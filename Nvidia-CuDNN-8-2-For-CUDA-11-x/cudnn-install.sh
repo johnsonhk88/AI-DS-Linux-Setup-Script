@@ -6,9 +6,12 @@
 
 
 # for  8.6xx
-tar -xvf cudnn-linux-x86_64-8.5.0.96_cuda11-archive.tar.xz
-mv -T cudnn-linux-x86_64-8.5.0.96_cuda11-archive cuda
+# tar -xvf cudnn-linux-x86_64-8.5.0.96_cuda11-archive.tar.xz
+# mv -T cudnn-linux-x86_64-8.5.0.96_cuda11-archive cuda
 
+# for 8.7xx
+tar -xvf cudnn-linux-x86_64-8.7.0.84_cuda11-archive.tar.xz
+mv -T cudnn-linux-x86_64-8.7.0.84_cuda11-archive cuda
 # tar -xvf cudnn-local-repo-ubuntu2004-8.4.1.50_1.0-1_amd64.deb -C $PWD/cuda/
 
 
