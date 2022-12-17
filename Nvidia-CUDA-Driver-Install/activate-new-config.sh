@@ -1,0 +1,2 @@
+source ~/.bashrc
+sudo ldconfig
