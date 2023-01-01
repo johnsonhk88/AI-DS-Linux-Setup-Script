@@ -22,8 +22,9 @@ sudo apt-get install gdebi-core -y
 # install RStudio Server
 wget https://download2.rstudio.org/server/jammy/amd64/rstudio-server-2022.12.0-353-amd64.deb
 sudo gdebi rstudio-server-2022.12.0-353-amd64.deb
-#for install RStudio destop
-
+#for install RStudio desktop version
+wget https://download1.rstudio.org/electron/jammy/amd64/rstudio-2022.12.0-353-amd64.deb
+sudo gdebi rstudio-2022.12.0-353-amd64.deb
 
 # open browser with url : localhost:8787 
 # login and password use Linux account
