@@ -7,6 +7,11 @@ sudo apt install nodejs -y
 #install pm2 management tool
 sudo npm install -g pm2
 
+
+#install nvm
+sudo apt install curl 
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
+
 #install Flask
 # sudo apt install python3-flask
 pip3 install flask
