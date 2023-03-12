@@ -14,3 +14,5 @@ pip3 install urllib3
 pip3 install pyspider 
 
 pip3 install requests
+
+pip3 install html5lib
