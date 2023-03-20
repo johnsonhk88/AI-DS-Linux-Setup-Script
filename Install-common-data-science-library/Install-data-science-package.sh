@@ -69,3 +69,12 @@ pip3 install h5py
 
 
 pip3 install dlib
+
+
+#install seaborn
+pip3 install seaborn
+
+pip3 install calmap
+
+#pandas profiling 
+pip3 install pandas-profiling
