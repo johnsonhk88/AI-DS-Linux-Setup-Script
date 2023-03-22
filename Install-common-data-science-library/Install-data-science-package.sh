@@ -78,3 +78,7 @@ pip3 install calmap
 
 #pandas profiling 
 pip3 install pandas-profiling
+
+
+#instatl polars (alternative pandas faster)
+pip3 install polars
