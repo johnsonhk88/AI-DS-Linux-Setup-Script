@@ -6,5 +6,5 @@ ubuntu-drivers devices
 
 
 # sudo apt install nvidia-driver-515
-sudo apt install nvidia-driver-525-open
+sudo apt install nvidia-driver-525
 sudo reboot
