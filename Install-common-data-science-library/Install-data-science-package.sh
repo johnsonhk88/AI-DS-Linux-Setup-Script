@@ -56,6 +56,7 @@ pip3 install -U nltk
 #insall jupyter lab and jupyter 
 pip3 install jupyterlab
 pip3 install notebook
+pip3 install jupyterthemes
 
 # install image 
 pip3 install imutils
@@ -82,3 +83,6 @@ pip3 install pandas-profiling
 
 #instatl polars (alternative pandas faster)
 pip3 install polars
+
+
+
