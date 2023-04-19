@@ -52,6 +52,7 @@ pip3 install numpy-financial
 
 #install nltk 
 pip3 install -U nltk
+pip3 install gensim
 
 #insall jupyter lab and jupyter 
 pip3 install jupyterlab
@@ -86,3 +87,4 @@ pip3 install polars
 
 
 
+pip3 install xgboost
