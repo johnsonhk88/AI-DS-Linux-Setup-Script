@@ -88,3 +88,7 @@ pip3 install polars
 
 
 pip3 install xgboost
+
+pip3 install prohet
+
+# pip3 install fbprophet
