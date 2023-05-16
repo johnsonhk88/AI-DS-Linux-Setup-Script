@@ -92,3 +92,7 @@ pip3 install xgboost
 pip3 install prophet
 
 # pip3 install fbprophet
+
+
+#Statistic Model
+python3 -m pip install statsmodels
