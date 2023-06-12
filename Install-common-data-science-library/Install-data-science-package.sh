@@ -96,3 +96,7 @@ pip3 install prophet
 
 #Statistic Model
 python3 -m pip install statsmodels
+
+pip3 install python-dotenv
+
+pip3 install openai
