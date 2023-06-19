@@ -9,3 +9,5 @@ pip3 install dash
 pip3 install httpx==0.20 dash plotly
 
 pip3 install dash-bootstrap-components
+
+pip3 install dash-auth
