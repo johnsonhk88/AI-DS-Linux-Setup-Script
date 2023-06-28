@@ -100,6 +100,9 @@ python3 -m pip install statsmodels
 pip3 install python-dotenv
 
 pip3 install openai
+pip3 install pandasai
+
+pip3 install langchain
 
 pip3 install pandas-datareader
 
