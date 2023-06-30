@@ -107,3 +107,5 @@ pip3 install langchain
 pip3 install pandas-datareader
 
 pip3 install panel
+
+pip install jupyter_ai
