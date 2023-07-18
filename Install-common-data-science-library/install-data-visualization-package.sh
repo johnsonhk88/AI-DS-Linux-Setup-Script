@@ -11,3 +11,5 @@ pip3 install httpx==0.20 dash plotly
 pip3 install dash-bootstrap-components
 
 pip3 install dash-auth
+
+pip3 install altair vega_datasets
