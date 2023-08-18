@@ -106,3 +106,7 @@ pip3 install panel
 
 #install pmdarima (ARIMA analysis package)
 pip3 install pmdarima
+
+
+# install interactive matplotlib
+pip3 install ipympl
