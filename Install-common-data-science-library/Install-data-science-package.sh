@@ -110,3 +110,6 @@ pip3 install pmdarima
 
 # install interactive matplotlib
 pip3 install ipympl
+
+# install dlai-tools
+pip3 install dlai-tools
