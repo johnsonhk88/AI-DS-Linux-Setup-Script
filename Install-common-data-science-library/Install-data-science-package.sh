@@ -113,3 +113,9 @@ pip3 install ipympl
 
 # install dlai-tools
 pip3 install dlai-tools
+
+
+#systemds for ML 
+sudo apt install openjdk-11-jdk -y
+sudo apt install maven -y
+pip3 install systemds
