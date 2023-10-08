@@ -119,3 +119,9 @@ pip3 install dlai-tools
 sudo apt install openjdk-11-jdk -y
 sudo apt install maven -y
 pip3 install systemds
+pip3 install scikit-image
+pip3 install memory-profiler
+
+pip3 install remotezip
+pip3 install tqdm
+pip3 install mediapipe
