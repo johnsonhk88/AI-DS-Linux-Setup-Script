@@ -125,3 +125,4 @@ pip3 install memory-profiler
 pip3 install remotezip
 pip3 install tqdm
 pip3 install mediapipe
+pip3 install cvlib #A simple, high level, easy to use, open source computer vision library for python

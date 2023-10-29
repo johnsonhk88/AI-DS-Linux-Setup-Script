@@ -28,3 +28,4 @@ pip3 install django
 #FastAPI
 pip3 install fastapi 
 pip3 install unicorn[standard]
+pip3 install python-multipart
