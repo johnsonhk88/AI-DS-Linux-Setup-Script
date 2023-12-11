@@ -126,3 +126,9 @@ pip3 install remotezip
 pip3 install tqdm
 pip3 install mediapipe
 pip3 install cvlib #A simple, high level, easy to use, open source computer vision library for python
+
+pip3 install tfx # tensorflow extended
+pip3 install tensorflow-data-validation # tensorflow data validation
+pip3 install -q -U keras-tuner  # kerra tuner for tensorflow find parameter
+pip3 install -U tensorflow_datasets # tensorflow datasets install 
+pip3 install ml-metadata # ML metadata framework for track ML dataset
