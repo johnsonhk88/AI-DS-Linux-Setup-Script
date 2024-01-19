@@ -132,3 +132,7 @@ pip3 install tensorflow-data-validation # tensorflow data validation
 pip3 install -q -U keras-tuner  # kerra tuner for tensorflow find parameter
 pip3 install -U tensorflow_datasets # tensorflow datasets install 
 pip3 install ml-metadata # ML metadata framework for track ML dataset
+
+pip3 install kaggle # kaggle api install For competition, dataset
+
+sudo apt install libfuse2 -y # for LLM Studio run appimage
