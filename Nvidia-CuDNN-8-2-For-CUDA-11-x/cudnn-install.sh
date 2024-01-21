@@ -25,6 +25,9 @@ mv -T cudnn-linux-x86_64-8.9.3.28_cuda12-archive cuda
 tar -xvf cudnn-linux-x86_64-8.9.4.25_cuda12-archive.tar.xz
 mv -T cudnn-linux-x86_64-8.9.4.25_cuda12-archive cuda
 
+tar -xvf cudnn-linux-x86_64-8.9.6.50_cuda12-archive.tar.xz
+mv -T cudnn-linux-x86_64-8.9.6.50_cuda12-archive cuda
+
 #please rename unzip directory to cuda before run below file 
 
 sudo cp cuda/include/* /usr/local/cuda/include
